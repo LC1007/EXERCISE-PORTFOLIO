@@ -1,0 +1,24 @@
+body{
+    overflow-x: hidden;
+}
+
+.header__styling{
+    height: 100vh;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+}
+
+.about__me{
+    display: flex;
+    justify-content: center;
+}
+
+.about__me{
+    height: 100vh;
+}
